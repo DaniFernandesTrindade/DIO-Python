@@ -17,8 +17,8 @@ Desenvolvido por [Daniella Trindade](https://www.linkedin.com/in/daniella-trinda
 Desenvolvido com 💻 e ☕ por:
 
 Daniella Trindade
-📧 danifernandestrindade@gmail.com
-🔗 LinkedIn
+📧 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-trindade-2b31ba357)  
+[![Gmail](https://img.shields.io/badge/E--mail-danifernandestrindade@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:danifernandestrindade@gmail.com)
 
 
 ## 🛠️ Instalação
