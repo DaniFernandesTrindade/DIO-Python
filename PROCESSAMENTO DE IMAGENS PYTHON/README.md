@@ -14,6 +14,12 @@ Desenvolvido por [Daniella Trindade](https://www.linkedin.com/in/daniella-trinda
 - 🌫️ **Blur** – aplica desfoque gaussiano com intensidade personalizada
 
 ---
+Desenvolvido com 💻 e ☕ por:
+
+Daniella Trindade
+📧 danifernandestrindade@gmail.com
+🔗 LinkedIn
+
 
 ## 🛠️ Instalação
 
